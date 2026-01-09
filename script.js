@@ -2,7 +2,7 @@ const repoOwner = "Jesusxal777-boop";
 const repoName = "Chat";
 const filePath = "messages.json";
 const branch = "main";
-const token = "TU_GITHUB_TOKEN"; // ⚠️ lee abajo
+const token = "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"; // ⚠️ lee abajo
 
 const apiURL = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${filePath}`;
 
